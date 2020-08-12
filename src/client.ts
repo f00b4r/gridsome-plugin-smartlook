@@ -14,6 +14,10 @@ export default function (_Vue: any, options: SmartlookOptions, { isClient, route
     if (window.location.host.startsWith('localhost')) return;
   }
 
+  // Show tracking
+  console.log('[gridsome-smartlook-plugin] 👀')
+
+  // Init smartlook
   window.smartlook || (function (d) {
     // @ts-ignore
     var o = window.smartlook = function () { o.api.push(arguments) }, h = d.getElementsByTagName('head')[0];

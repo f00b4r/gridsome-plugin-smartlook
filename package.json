@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-smartlook",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": {
     "name": "f3l1x",
     "url": "https://f3l1x.io",
@@ -22,13 +22,15 @@
   "bugs": {
     "url": "https://github.com/webkitty/gridsome-plugin-smartlook/issues"
   },
+  "main": "gridsome.client.js",
   "files": [
     "gridsome.client.js",
     "dist/**"
   ],
   "scripts": {
     "build": "tsc",
-    "watch": "tsc --watch"
+    "watch": "tsc --watch",
+    "prepublishOnly": "tsc"
   },
   "devDependencies": {
     "@types/node": "^14.0.27",
