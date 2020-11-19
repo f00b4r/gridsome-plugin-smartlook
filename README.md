@@ -44,12 +44,12 @@ npm install --save gridsome-plugin-smartlook
 module.exports = {
   siteName: "Your awesome site",
   plugins: [
-    [
+    {
       'gridsome-plugin-smartlook',
       {
         id: "**smartlook*key**"
       }
-    ]
+    }
   ]
 };
 ```
