@@ -9,8 +9,8 @@
 </p>
 
 <p align=center>
-    <a href="https://github.com/webkitty/gridsome-plugin-smartlook/actions">
-        <img src="https://badgen.net/github/checks/webkitty/gridsome-plugin-smartlook">
+    <a href="https://github.com/f00b4r/gridsome-plugin-smartlook/actions">
+        <img src="https://badgen.net/github/checks/f00b4r/gridsome-plugin-smartlook">
     </a>
     <a href="https://www.npmjs.com/package/gridsome-plugin-smartlook">
         <img src="https://badgen.net/npm/v/gridsome-plugin-smartlook">
@@ -19,7 +19,7 @@
         <img src="https://badgen.net/npm/dt/gridsome-plugin-smartlook">
     </a>
     <a href="/LICENSE">
-        <img src="https://badgen.net/github/license/webkitty/gridsome-plugin-smartlook">
+        <img src="https://badgen.net/github/license/f00b4r/gridsome-plugin-smartlook">
     </a>
 </p>
 

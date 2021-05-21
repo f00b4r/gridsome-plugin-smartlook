@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webkitty/gridsome-plugin-smartlook"
+    "url": "https://github.com/f00b4r/gridsome-plugin-smartlook"
   },
   "bugs": {
-    "url": "https://github.com/webkitty/gridsome-plugin-smartlook/issues"
+    "url": "https://github.com/f00b4r/gridsome-plugin-smartlook/issues"
   },
   "main": "gridsome.client.js",
   "files": [
